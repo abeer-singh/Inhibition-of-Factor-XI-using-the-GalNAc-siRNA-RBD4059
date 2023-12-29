@@ -1,0 +1,11 @@
+comparison,mean rank diff,pval,significance
+PBS-Enoxaparine,-11.25,0.3799142416368168,ns
+RBD4059 1mg/kg-Enoxaparine,-6.625,1,ns
+RBD4059 3mg/kg-Enoxaparine,1.5,1,ns
+RBD4059 9mg/kg-Enoxaparine,6.375,1,ns
+RBD4059 1mg/kg-PBS,4.625,1,ns
+RBD4059 3mg/kg-PBS,12.75,0.23531347397545452,ns
+RBD4059 9mg/kg-PBS,17.625,0.025674110147059958,*
+RBD4059 3mg/kg-RBD4059 1mg/kg,8.125,0.9871309049369066,ns
+RBD4059 9mg/kg-RBD4059 1mg/kg,13,0.23531347397545452,ns
+RBD4059 9mg/kg-RBD4059 3mg/kg,4.875,1,ns
